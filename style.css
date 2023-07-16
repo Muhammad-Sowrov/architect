@@ -3,3 +3,89 @@
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
+
+/* nav styles start */
+header {
+    padding: 20px 140px;
+    background-color: background: rgba(255, 144, 14, 0.10);
+    ;
+
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-item {
+    display: flex;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.nav-item li {
+    list-style: none;
+    color: #424242;
+    margin-right: 40px;
+
+}
+
+.nav-item a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.typography {
+    color: typography;
+    font-size: 2.5ewmpx;
+    font-weight: 700;
+
+}
+
+/* nav styles end */
+
+/* banner styles start */
+.banner-container {
+    align-items: center;
+}
+.banner-content {
+    max-width: 800px;
+    align-items: center;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.h-one {
+    color: #131313);
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
+.paragraph {
+    color: #727272);
+    font-size: 16px;
+    font-weight: 400;
+
+}
+.banner-img {
+    margin-top: 50px;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.btn-primary {
+    width: 180px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FF900E;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+/* banner styles end */
+
