@@ -164,15 +164,15 @@ main {
     }
     .feature-img{
         grid-template-columns: 1fr;
+        width: auto;
         padding-left: 0px;
-        padding-right: 220px;
+        padding-right: 200px;
     }
     .feature-txt{
         padding-right: 180px;
         padding-left: 0px;
     }
     .wr {
-        width: 300px;
         padding-left: 0px;
         padding-right: 0px;
     }
